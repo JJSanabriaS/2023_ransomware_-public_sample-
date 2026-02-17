@@ -21,7 +21,7 @@ As output were obtained
   * several MVP prototypes
   * several investing raising applications
 
-base team two seniors one focus on databases and other on Machine learning and software development and four juniors each
+base team Fifteen members divided on three groups leaded for one senior (one focus on databases, another on Project Management (PM) and me on Machine learning and software development features)
 
 development time aprox 20 months
 
