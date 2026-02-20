@@ -27,6 +27,9 @@ development time aprox 20 months
 
 |   |  |
 |---|--|
+|  federate learning | ![database sample ](/source/imagens/federatelearn.png) |
+|  federate learning  | ![database sample ](/source/imagens/federatelearn1.png) |
+|  federate learning  | ![database sample ](/source/imagens/federatelearn2.png) |
 | gui golang  | ![database sample ](/source/imagens/golang_gui.png) |
 | gui golang video   |https://youtu.be/N9AmXzu65xg  https://youtu.be/cXi2FUFS_z4|
 |  platform detextion | https://youtu.be/5dt4Xo7s85E |
