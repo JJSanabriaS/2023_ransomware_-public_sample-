@@ -1,10 +1,10 @@
 # 2023_ransomware_-public_sample-
 
-Here's a more professional and GitHub-friendly description that presents the project as a research and architectural exploration while making clear that the public repository is only a toy/sample implementation.
+The project was a research and architectural exploration for a SaaS, while the public repository is only a toy/sample implementation.
 
 # Federated Learning for Malware Detection (Research Sample)
 
-This repository contains a simplified proof-of-concept demonstrating the application of Federated Learning techniques for AI-based malware detection. The implementation is intentionally lightweight and serves as a technical showcase inspired by a much larger commercial cybersecurity initiative developed under NDA.
+This repository contains a simplified proof-of-concept demonstrations of Federated Learning techniques for AI-based malware detection. The implementation is intentionally lightweight and serves as a technical showcase inspired by a much larger commercial cybersecurity initiative developed under NDA.
 
 ## Background
 
@@ -37,6 +37,7 @@ The initiative produced several significant deliverables:
 * Technical documentation and architecture studies
 * Investment and fundraising application materials
 * Research artifacts related to AI-based cybersecurity systems
+* Juniors teaching of best practices and languages
 
 ## Team Structure
 
@@ -52,9 +53,7 @@ My responsibilities focused primarily on Machine Learning research, software arc
 
 This repository is an educational sample and should not be considered a production-grade security solution. It is intended to demonstrate concepts related to Federated Learning and malware classification while preserving the confidentiality of the original commercial project.
 
-This version is appropriate for a professional GitHub repository, academic portfolio, or cybersecurity research showcase. It highlights the scope and leadership aspects without revealing NDA-protected details.
-
-development time aprox 20 months
+Development time aprox 20 months
 
 ## Stack technical description (evaluated for final product)
 
